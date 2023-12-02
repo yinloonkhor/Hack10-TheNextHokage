@@ -18,3 +18,12 @@ git clone https://github.com/yinloonkhor/Hack10-TheNextHokage.git
 ```
 cd Hack10-TheNextHokage
 ```
+
+## Hand Sign
+![image](https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/2f481b3a-9abc-4838-b57f-ab652cba79f2)
+
+
+## Credit to
+Naruto Hand Signs Dataset
+
+https://universe.roboflow.com/vgu-aeaes/naruto-hand-sign/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
