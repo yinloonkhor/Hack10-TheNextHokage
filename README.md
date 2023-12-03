@@ -23,12 +23,7 @@ cd Hack10-TheNextHokage
 ![image](https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/2f481b3a-9abc-4838-b57f-ab652cba79f2)
 
 ## Demo
-
-
-https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/7c2e879c-0f8d-41e1-a338-488faf10173c
-
-
-
+![ezgif com-video-to-gif](https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/bd8de2c6-c677-4b48-baf9-a58baa65bdf0)
 
 
 ## Training
