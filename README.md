@@ -26,6 +26,11 @@ cd Hack10-TheNextHokage
 ![ezgif com-video-to-gif](https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/bd8de2c6-c677-4b48-baf9-a58baa65bdf0)
 
 
+https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/0ed346a1-cb29-465c-8c79-bb222e344662
+
+
+
+
 ## Training
 The dataset is forked from a Roboflow project and preprocessed [here](https://app.roboflow.com/eddy-miner-mwie9/naruto-t7o4a/2). Training is done using YOLOv8n with batch size of 12, image size of 640 and 80 epochs by running train.py after downloading the dataset.
 
