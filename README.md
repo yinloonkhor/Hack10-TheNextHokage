@@ -1,6 +1,6 @@
 # Hack10-TheNextHokage
 
-This repository is written for the Hack@10 hackathon by **TheNextHokage**. This is a AI game developed for entertainment while training players on Jutsu techniques.
+This repository is written for the Hack@10 hackathon by **The Seventh Class** where our project entitled **NextHokage**. This is a AI game developed for entertainment while training players on Jutsu techniques.
 
 ## Download the Repo
 
