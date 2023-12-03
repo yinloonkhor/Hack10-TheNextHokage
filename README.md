@@ -22,6 +22,15 @@ cd Hack10-TheNextHokage
 ## Hand Sign
 ![image](https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/2f481b3a-9abc-4838-b57f-ab652cba79f2)
 
+## Demo
+
+
+https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/7c2e879c-0f8d-41e1-a338-488faf10173c
+
+
+
+
+
 ## Training
 The dataset is forked from a Roboflow project and preprocessed [here](https://app.roboflow.com/eddy-miner-mwie9/naruto-t7o4a/2). Training is done using YOLOv8n with batch size of 12, image size of 640 and 80 epochs by running train.py after downloading the dataset.
 
