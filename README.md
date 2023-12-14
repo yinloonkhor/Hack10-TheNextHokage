@@ -19,6 +19,11 @@ git clone https://github.com/yinloonkhor/Hack10-TheNextHokage.git
 cd Hack10-TheNextHokage
 ```
 
+## Instruction
+There are two modes available for the game including Training and PvP. Player has to display specific Jutsu technique pattern to deal damage. The Jutsu technique is described on the start of the game. Once the Jutsu technique is accomplised, an animation will be displayed as well as the damage done.
+
+_**Enjoy da game!!!**_
+
 ## Hand Sign
 ![image](https://github.com/yinloonkhor/Hack10-TheNextHokage/assets/152722201/2f481b3a-9abc-4838-b57f-ab652cba79f2)
 
